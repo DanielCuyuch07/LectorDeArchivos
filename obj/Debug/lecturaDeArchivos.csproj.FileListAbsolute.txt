@@ -1,0 +1,7 @@
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\bin\Debug\lecturaDeArchivos.exe.config
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\bin\Debug\lecturaDeArchivos.exe
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\bin\Debug\lecturaDeArchivos.pdb
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\obj\Debug\lecturaDeArchivos.csproj.AssemblyReference.cache
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\obj\Debug\lecturaDeArchivos.csproj.CoreCompileInputs.cache
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\obj\Debug\lecturaDeArchivos.exe
+D:\Proyectos2024\Cursos\CursoC#\Proyectos\Polimorfismo\Lectura de archivos\lecturaDeArchivos\obj\Debug\lecturaDeArchivos.pdb
